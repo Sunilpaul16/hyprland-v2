@@ -18,3 +18,5 @@ fuzzel/
 # Ignore Python cache files
 __pycache__/
 *.py[cod]
+/create-next-app-nodejs
+/nextjs-nodejs
